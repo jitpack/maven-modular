@@ -1,0 +1,4 @@
+example multi-module project
+===
+
+
