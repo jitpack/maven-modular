@@ -1,4 +1,4 @@
-example multi-module project
+Example Maven multi-module project
 ===
 
 
