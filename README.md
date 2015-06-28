@@ -1,6 +1,10 @@
 Example Maven multi-module project
 ===
 
+This project has two maven modules:
+- module1
+- module2
+
 With multi-module projects the groupId becomes: com.github.User.Repo
 And artifactId remains the same as in the module's pom file.
 
